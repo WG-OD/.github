@@ -17,7 +17,7 @@ flowchart TD
     sat([Conventional])
     con([Satellite])
 
-    ICAMS --- COPC
+    ICAMS -.- COPC
     COPC --- CSAB
     CSAB --- OCM
     CSAB --- CCM
