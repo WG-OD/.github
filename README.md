@@ -28,16 +28,16 @@ flowchart TD
     style sat color:black,fill:#fcd602cb
     style con color:black,fill:#fcd602cb
 
-    click ICAMS "https://www.icams-portal.gov/index.html" "Interagency Council for Advancing Meteorological Services"
+    click ICAMS href "https://www.icams-portal.gov/index.html" "Interagency Council for Advancing Meteorological Services"
 
-    click COPC "https://www.icams-portal.gov/resources/ofcm/groups/copc/copc.htm" "Committee for Operational Processing Centers"
+    click COPC href "https://www.icams-portal.gov/resources/ofcm/groups/copc/copc.htm" "Committee for Operational Processing Centers"
 
-    click CSAB "https://www.icams-portal.gov/resources/ofcm/groups/csab/wgcsab.htm" "Working Group for Cooperative Support and Backup"
+    click CSAB href "https://www.icams-portal.gov/resources/ofcm/groups/csab/wgcsab.htm" "Working Group for Cooperative Support and Backup"
     
-    click OD "https://www.icams-portal.gov/resources/ofcm/groups/od/od.htm" "Working Group for Observational Data"
+    click OD href "https://www.icams-portal.gov/resources/ofcm/groups/od/od.htm" "Working Group for Observational Data"
     
-    click OCM "https://www.icams-portal.gov/resources/ofcm/groups/ocm/jagocm.htm" "Joint Action Group for Operational Community Modeling"
+    click OCM href "https://www.icams-portal.gov/resources/ofcm/groups/ocm/jagocm.htm" "Joint Action Group for Operational Community Modeling"
     
-    click CCM "https://www.icams-portal.gov/resources/ofcm/groups/ccm/wgccm.htm" "Working group for Centralized Communications Management"
+    click CCM href "https://www.icams-portal.gov/resources/ofcm/groups/ccm/wgccm.htm" "Working group for Centralized Communications Management"
 
 ```
