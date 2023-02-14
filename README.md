@@ -2,6 +2,7 @@
 
 # Organization
 
+> Tip: Right-click a box and open link in "New Tab" to navigate to entity's website.
 
 ```mermaid
 
@@ -39,5 +40,6 @@ flowchart TD
     click OCM href "https://www.icams-portal.gov/resources/ofcm/groups/ocm/jagocm.htm" "Joint Action Group for Operational Community Modeling"
     
     click CCM href "https://www.icams-portal.gov/resources/ofcm/groups/ccm/wgccm.htm" "Working group for Centralized Communications Management"
+
 
 ```
